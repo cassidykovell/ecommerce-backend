@@ -17,7 +17,7 @@ In order to install this tool you should clone the repository, then navigate to 
 ## Usage
 To use this application type simply invoke the application in the command line.
 
-[See video demonstration]()
+[See video demonstration](https://drive.google.com/file/d/1HKDDN-CtmREfjyIml6rHoaub9V_Rn4B-/view)
 
 ## Credits
 Cassidy Kovell with help from a tutor and the Xpert Learning Assistant.
